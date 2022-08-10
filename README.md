@@ -1,4 +1,4 @@
-# Bug Grabber Mirror
+# Bug Grabber. Mirror
 
 This is a mirror of funkehdude's Bug Grabber.
 
