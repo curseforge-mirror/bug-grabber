@@ -1,6 +1,6 @@
-# Bug Grabber Mirror
+# BugGrabber Mirror
 
-This is a mirror of funkehdude's Bug Grabber
+This is a mirror of funkehdude's BugGrabber
 
 - [Curseforge URL](https://www.curseforge.com/wow/addons/bug-grabber)
 
